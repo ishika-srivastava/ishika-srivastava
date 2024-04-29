@@ -11,7 +11,7 @@ File  Action  Edit  View  Help
 ⁍ Current : Pre-Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
 
 : Technical Skills :
-==> Languages            - C, C++, Python, HTML, CSS
+==> Languages            - C, C++, Python, Bash, HTML, CSS
 ==> Tools                - Nmap, Metasploit, Wireshark, Burpsuite, OWASP
 ==> Technology/Framework - OSINT, MySQL
 ==> Operating Systems    - Kali Linux, Windows, Ubuntu, Parrot OS, Unix
