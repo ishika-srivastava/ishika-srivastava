@@ -4,7 +4,7 @@
 ```
 File  Action  Edit  View  Help
 
-┌──(srishika29㉿GitHub)-[~]
+┌──(ishika-srivastava㉿GitHub)-[~]
 └─$ cat about-me
 
 ⁍ Name : Ishika Srivastava
