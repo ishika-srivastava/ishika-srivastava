@@ -8,7 +8,7 @@ File  Action  Edit  View  Help
 └─$ cat about-me
 
 ⁍ Name : Ishika Srivastava
-⁍ Current : Pre-Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
+⁍ Current : Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
 
 : Technical Skills :
 ==> Languages            - C, C++, Python, Bash, HTML, CSS
