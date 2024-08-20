@@ -11,7 +11,7 @@ File  Action  Edit  View  Help
 ⁍ Current - Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
 
 : Certifications :
-==> CEH (Certified Ethical Hacker)  - EC-Council
+==> CEHv12 (Certified Ethical Hacker)  - EC-Council
 
 : Technical Skills :
 ==> Languages            - C, C++, Python, Bash, HTML, CSS
