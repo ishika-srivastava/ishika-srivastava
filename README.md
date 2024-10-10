@@ -7,8 +7,9 @@ File  Action  Edit  View  Help
 ┌──(ishika-srivastava㉿GitHub)-[~]
 └─$ cat about-me
 
-⁍ Name    - Ishika Srivastava
-⁍ Current - Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
+⁍ Name      - Ishika Srivastava
+⁍ Education - Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
+⁍ Current   - Cybersecurity Analyst 
 
 : Certifications :
 ==> CEHv12 (Certified Ethical Hacker)  - EC-Council
