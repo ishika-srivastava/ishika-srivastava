@@ -9,14 +9,14 @@ File  Action  Edit  View  Help
 
 ⁍ Name      - Ishika Srivastava
 ⁍ Education - Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
-⁍ Current   - Cybersecurity Analyst 
+⁍ Current   - Cybersecurity Analyst
 
 : Certifications :
 ==> CEHv12 (Certified Ethical Hacker)  - EC-Council
 
 : Technical Skills :
 ==> Languages            - C, C++, Python, Bash, HTML, CSS, MySQL
-==> Tools                - Nmap, Metasploit, Wireshark, Burpsuite, Aircrackng, Nessus, SqlMap
+==> Tools                - Nmap, Metasploit, Wireshark, Burpsuite, Aircrack-ng, Nessus, SqlMap
 ==> Technology/Framework - OSINT, OWASP Top10
 ==> Operating Systems    - Kali Linux, Windows, Ubuntu, Parrot OS, CentOS, Unix
 
