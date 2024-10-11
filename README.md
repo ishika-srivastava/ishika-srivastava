@@ -23,7 +23,7 @@ File  Action  Edit  View  Help
 : Learning :
 ==> Penetration Testing
 ==> Cyber Forensics
-==> Web3.0 -> BlockChain -> Ethereum -> Smart Contracts -> Solidity
+==> Cloud Security
 
 : Extracurricular :
 ==> Languages - English, Hindi, Korean, Italian
