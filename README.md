@@ -8,7 +8,7 @@ File  Action  Edit  View  Help
 └─$ cat about-me
 
 ⁍ Name      - Ishika Srivastava
-⁍ Education - Final Year Computer Science Student @ Jaypee University of Information Technology (JUIT), Solan
+⁍ Education - Jaypee University of Information Technology (JUIT), Solan
 ⁍ Current   - Cybersecurity Analyst
 
 : Certifications :
